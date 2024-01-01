@@ -1,1 +1,1 @@
-# cv
+# Repo for pushing CV related projects
